@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://git.lovelacelee.com</id>
     <title>星垂平野</title>
-    <updated>2020-03-15T08:05:34.892Z</updated>
+    <updated>2020-03-15T09:22:16.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://git.lovelacelee.com"/>
     <link rel="self" href="http://git.lovelacelee.com/atom.xml"/>
@@ -10,4 +10,53 @@
     <logo>http://git.lovelacelee.com/images/avatar.png</logo>
     <icon>http://git.lovelacelee.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 星垂平野</rights>
+    <entry>
+        <title type="html"><![CDATA[坚持]]></title>
+        <id>http://git.lovelacelee.com/post/jian-chi/</id>
+        <link href="http://git.lovelacelee.com/post/jian-chi/">
+        </link>
+        <updated>2020-03-15T09:20:54.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="每一件事情">每一件事情</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[良好的数据安全管理办法]]></title>
+        <id>http://git.lovelacelee.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/</id>
+        <link href="http://git.lovelacelee.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/">
+        </link>
+        <updated>2020-03-15T09:19:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="隐患">隐患</h1>
+<h1 id="救治">救治</h1>
+<h1 id="防范">防范</h1>
+<h1 id="根治">根治</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让孩子爱上读书的一百种方法]]></title>
+        <id>http://git.lovelacelee.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/</id>
+        <link href="http://git.lovelacelee.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/">
+        </link>
+        <updated>2020-03-15T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>来源于给孩子报读的英语班的班主任妈妈的整理</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>来源于给孩子报读的英语班的班主任妈妈的整理</p>
+</blockquote>
+<!-- more -->
+<ul>
+<li>✅001:</li>
+<li>✅002:</li>
+<li>✅003:</li>
+<li>✅004:</li>
+<li>✅005:</li>
+<li>✅006:</li>
+<li>✅007:</li>
+<li>✅008:</li>
+<li>✅009:</li>
+<li>✅010:</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
