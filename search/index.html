@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>良好的数据安全管理办法 | 星垂平野</title>
+<title>搜索结果 | 星垂平野</title>
 <meta name="description" content="温故而知新。
 星垂平野阔，月咏大江流。" />
 <link rel="shortcut icon" href="http://git.lovelacelee.com/favicon.ico">
@@ -15,17 +15,16 @@
 <script src="http://git.lovelacelee.com/media/js/view-image.min.js"></script>
 <script src="http://git.lovelacelee.com/media/js/jquery.magnific-popup.min.js"></script>
 <script src="http://git.lovelacelee.com/media/js/functions.js"></script>
-    <meta name="referrer" content="never">
-    <meta name="description" content="隐患
-救治
-防范
-根治
-" />
-    <meta name="keywords" content="工作" />
-    <script src="http://git.lovelacelee.com/media/js/waterfall.min.js"></script>
-    <script src="http://git.lovelacelee.com/media/js/prism.min.js"></script>
-  </head>
+    <script src="/media/gridea-search/fuse.js"></script>
+    <script src="/media/gridea-search/ejs.min.js"></script>
+    <script src="/media/gridea-search/gridea-search.js"></script>
+    <script src="/media/gridea-search/result-template.ejs" type="text/ejs"></script>
+</head>
+
   <body>
+    <!-- start: #wrapper -->
+    <div class="wrapper">
+      
             <header id="header" class="grid-container">
         <!-- start: .menu-wrapper -->
         <div class="menu-mobile"> 
@@ -116,110 +115,22 @@
         </div>
       </div>
 
-      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
-
-        <div class="center content">
-          <div class="featured-image cover" style="background-image: url('/media/images/custom-featureImage.png');">
-            <div class="meta top"> 
-              <time class="meta-info" style="float:left;" datetime="2020-03-15"><i class="fa fa-calendar"></i><span class="lately">30 分钟前</span></time>
-              
-              <a href="http://git.lovelacelee.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/#comments" class="comments meta-info" title="">
-                <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/"> </span>
-              </a>
-              <span id="/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
-              
-            </div>
-            <div class="info">
-              <div class="tags ">
-                
-                      <a href="http://git.lovelacelee.com/tag/9iyKv5hmC/" class="ctag ctag-0 ctag-9iyKv5hmC" aria-label="">工作</a>
-                    
-              </div>
-              <h1 class="title ularge white bold">良好的数据安全管理办法</h1>
-            </div>
-          </div>
-        </div>  
-
+      <main id="home" class="main fullcover no-sidebar content">
+        <div class="grid-container module-wrapper enable-masonry aos-init aos-animate" data-aos="fade-up">
         <div class="epcl-page-wrapper">
-          <div class="left-content grid-70 np-mobile">
-            <article class="main-article post">
-              <section class="post-content">
-                <div class="text">
-                  <h1 id="隐患">隐患</h1>
-<h1 id="救治">救治</h1>
-<h1 id="防范">防范</h1>
-<h1 id="根治">根治</h1>
-
-                </div>
-                <div class="clear"></div>
-              </section>
-            </article>
-            <div class="clear"></div>
-
-            <section class="related section">
-              
-              <article class="prev grid-50 tablet-grid-50 grid-parent">
-                <div class="thumb cover lazy loaded" style="background-image: url('http://git.lovelacelee.com/media/images/Q_soPlec-.jpg');"></div>
-                 <a href="http://git.lovelacelee.com/post/jian-chi/" class="full-link"></a>
-                 <div class="info">
-                  <time datetime="2020-03-15">2020-03-15</time>
-                  <h4 class="title white no-margin">坚持</h4>
-                </div>
-                 <span class="epcl-button red">
-                  <img src="http://git.lovelacelee.com/media/images/left-arrow.svg" width="15" alt="Left Arrow">
-                </span>
-                <div class="overlay"></div>
-              </article>
-              
-              
-              <article class="next grid-50 tablet-grid-50 grid-parent">
-                <div class="thumb cover lazy loaded" style="background-image: url('http://git.lovelacelee.com/media/images/cynxlFSl0.jpg');"></div>
-                 <a href="http://git.lovelacelee.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/" class="full-link"></a>
-                 <div class="info">
-                  <time datetime="2020-03-15">2020-03-15</time>
-                  <h4 class="title white no-margin">让孩子爱上读书的一百种方法</h4>
-                </div>
-                 <span class="epcl-button red">
-                  <img src="http://git.lovelacelee.com/media/images/right-arrow.svg" width="15" alt="Left Arrow">
-                </span>
-                <div class="overlay"></div>
-              </article>
-              
-
-                <div class="clear"></div>
-            </section>
-
-              <div class="clear"></div>
-              
-            
-              <div id="comments" class="bg-white hosted ">
-                <div class="clear"></div>
-<script>
-jQuery(document).ready(function($){
-    $('.vemoji-btn').text('😀');
-    $("#comments").on('click', 'span.vat',function(){
-        $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
-        $('textarea#veditor').focus();
-    })
-    if(window.location.hash){
-        var checkExist = setInterval(function() {
-            if ($(window.location.hash).length) {
-                $('html, body').animate({scrollTop: $(window.location.hash).offset().top-200}, 600);
-                clearInterval(checkExist);
-            }
-        }, 100);
-    }
-})
-</script>
-
-              </div>
-            
-
+          <div class="left-content grid-70 np-mobile widget_epcl_related_articles">
+          <div class="main-article post">
+            <div id="gridea-search-result">
+              <h2 class="searching">搜索中......</h2>
+              <h2 class="no-result" style="display:none">未搜索到相关文章</h2>
             </div>
           </div>
+          </div>
+        </div>
+        </div>
       </main>
 
-          <footer id="footer" class="grid-container">
+        <footer id="footer" class="grid-container">
         <div class="widgets row gradient-effect">
             <div class="default-sidebar border-effect">
               <div class="grid-33 tablet-grid-50 mobile-grid-100">
@@ -359,9 +270,6 @@ jQuery(document).ready(function($){
     })
 </script>
     
-
-      
-    <script src="http://git.lovelacelee.com/media/js/functions-post.js"></script>
 
     </div>
     <!-- end: #wrapper -->
