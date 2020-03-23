@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://git.lovelacelee.com</id>
+    <id>http://http://emvh41.coding-pages.com/</id>
     <title>星垂平野</title>
-    <updated>2020-03-17T06:52:57.518Z</updated>
+    <updated>2020-03-23T13:26:39.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://git.lovelacelee.com"/>
-    <link rel="self" href="http://git.lovelacelee.com/atom.xml"/>
+    <link rel="alternate" href="http://http://emvh41.coding-pages.com/"/>
+    <link rel="self" href="http://http://emvh41.coding-pages.com/atom.xml"/>
     <subtitle>温故而知新。
 星垂平野阔，月咏大江流。</subtitle>
-    <logo>http://git.lovelacelee.com/images/avatar.png</logo>
-    <icon>http://git.lovelacelee.com/favicon.ico</icon>
+    <logo>http://http://emvh41.coding-pages.com/images/avatar.png</logo>
+    <icon>http://http://emvh41.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 星垂平野</rights>
     <entry>
         <title type="html"><![CDATA[精读笔记｜一文读透《刻意练习》]]></title>
-        <id>http://git.lovelacelee.com/post/jing-du-bi-ji-oryi-wen-du-tou-lesslesske-yi-lian-xi-greatergreater/</id>
-        <link href="http://git.lovelacelee.com/post/jing-du-bi-ji-oryi-wen-du-tou-lesslesske-yi-lian-xi-greatergreater/">
+        <id>http://http://emvh41.coding-pages.com/post/jing-du-bi-ji-oryi-wen-du-tou-lesslesske-yi-lian-xi-greatergreater/</id>
+        <link href="http://http://emvh41.coding-pages.com/post/jing-du-bi-ji-oryi-wen-du-tou-lesslesske-yi-lian-xi-greatergreater/">
         </link>
         <updated>2020-03-17T06:46:20.000Z</updated>
         <summary type="html"><![CDATA[<p>From <a href="https://www.xmind.cn/blog/cn/%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E4%B8%80%E6%96%87%E8%AF%BB%E9%80%8F%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0/">Xmind精选</a><br>
@@ -29,7 +29,7 @@
 为什么有人可以如此擅长数学/写作/乐器/运动，自己却如此平庸。<br>
 为什么在某一个技能训练上花费了大量的时间和精力，却收效甚微。</p>
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="http://git.lovelacelee.com/post-images/1584427702642.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://http://emvh41.coding-pages.com//post-images/1584427702642.png" alt="" loading="lazy"></figure>
 <p>人和人之间的巨大差距，让我们百思不得其解。于是我们把这一切归结于「天赋」，并为自身的平庸找到了充分的借口。</p>
 <p>ta 的智商肯定很高。<br>
 ta 在音乐/运动/绘画上肯定有天赋。<br>
@@ -48,7 +48,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>Q2. 为什么说天才是训练的产物？<br>
 训练够早，某些能力在小时候更容易被培养。<br>
 比如说莫扎特的完美音高能力来源于其4岁就开始进行的音乐启蒙，并在浓厚的音乐氛围中长大。</p>
-<figure data-type="image" tabindex="2"><img src="http://git.lovelacelee.com/post-images/1584427714635.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://http://emvh41.coding-pages.com//post-images/1584427714635.jpeg" alt="" loading="lazy"></figure>
 <p>训练过程中讲究方法，有出色的导师指引进行有目标的培训。<br>
 莫扎特的父亲是小提琴演奏家和作曲家，在莫扎特4岁时，就开始全职教育他。</p>
 <p>通过专注的训练促使大脑改变，使他们能做到超出正常情况的事情。<br>
@@ -58,7 +58,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>Q3. 什么是「刻意练习」？<br>
 「刻意练习」的本质是长时工作记忆。具有卓越才能的人，在进行钢琴、象棋等专业活动时，能够调用更大容量的工作记忆。通俗来说，就是他们拥有更大的内存。</p>
 <p>这种长时工作记忆可以通过一定的练习来进行激活，通过一定难度的重复练习，在每次练习中收到反馈，不断纠正自己的错误，不断提升大脑的适应能力。</p>
-<figure data-type="image" tabindex="3"><img src="http://git.lovelacelee.com/post-images/1584427723053.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://http://emvh41.coding-pages.com//post-images/1584427723053.png" alt="" loading="lazy"></figure>
 <p>因而，长时工作记忆的培养要点有：</p>
 <p>赋予意义，精细编码：专家们能非常快地明白自己领域的单词和术语，在存储信息的时候，可以有意识地采取元认知的各项加工策略。</p>
 <p>提取结构或模式：往往需要将专业领域的知识提取结构或者模式，以更好的方式储存。</p>
@@ -102,7 +102,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>舒适区：已经完全掌握的区域，没有学习难度的知识或者习以为常的事务。<br>
 学习区：还没有完全掌握的区域，对你来说有一定挑战，感到不适，但不至于太难受。<br>
 恐慌区：超出自己能力范围太多的事务或知识，心理感觉会严重不适，可能导致崩溃以致放弃学习。<br>
-<img src="http://git.lovelacelee.com/post-images/1584427741720.png" alt="" loading="lazy"></p>
+<img src="http://http://emvh41.coding-pages.com//post-images/1584427741720.png" alt="" loading="lazy"></p>
 <p>刻意练习主要发生在学习区，因为舒适区已不能使你的水平提高，恐慌区对你来说难度过高。</p>
 <p>举英语学习为例，什么才是适合的学习材料？</p>
 <p>如果你能完全看懂，几乎没有遇到生词，那么这份材料对你来说过于简单。看再多这样的内容，对于提高英语水平帮助不大。</p>
@@ -113,7 +113,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 最有效的练习，是充分利用人类身体和大脑的适应能力，来逐步塑造和提高技能，以做到一些过去不可能的事情。</li>
 </ol>
 <p>为了有效提升技能，我们需要有目的的练习，而不只是简单地重复练习。</p>
-<figure data-type="image" tabindex="4"><img src="http://git.lovelacelee.com/post-images/1584427749568.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://http://emvh41.coding-pages.com//post-images/1584427749568.png" alt="" loading="lazy"></figure>
 <p>有目的的练习具有四个特点：</p>
 <p>定义明确的具体目标，并进行步骤拆解，以此来引导练习。<br>
 保持专注：完全把注意力集中在任务上。<br>
@@ -135,7 +135,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>比如素描课上，老师会对你的习作进行点评和讲解，及时指出你的问题和不足，并指导你进行修改。这种反馈，非常重要。你可以及时 get 到哪些地方做得不好，并及时改进，以此不断提高自己的技能。</p>
 <p>但在没有导师的情况下，我们可以记住这三个步骤：</p>
 <p>专注（focus） 反馈 （feedback） 纠正 （fix it）</p>
-<figure data-type="image" tabindex="5"><img src="http://git.lovelacelee.com/post-images/1584427760793.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="http://http://emvh41.coding-pages.com//post-images/1584427760793.png" alt="" loading="lazy"></figure>
 <p>随着时间的推移，学生必须学会自己检测自己，自己发现错误。并做出相应调整。</p>
 <p>瑜伽是酱酱比较喜欢的运动之一。在瑜伽课上，老师会进行瑜伽动作的讲解，有时候也会下来帮同学们调整体势。但大部分时候都需要靠自己去找问题并调整。酱酱的解决方案是，练习过程中对着瑜伽房中的镜子进行自我观察，及时进行调整，把动作做到位。</p>
 <p>反复做一件事情的目的在于找出不足，并进行改善和提高。不断进行自我检测，获得有效反馈，并及时进行改进和调整，才是真正的「刻意练习」。</p>
@@ -159,14 +159,14 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>1、保持强烈的兴趣和动机。那种来自内心深处强烈的自我激励和自我成长的愉悦感和成就感是坚持源源不断的「燃料」。</p>
 <p>2、持续的专注和坚持。并没有人是「天生就会」，厉害的人也是因为大量的科学的刻意练习才变得厉害。</p>
 <p>附上全书的思维导图笔记</p>
-<figure data-type="image" tabindex="6"><img src="http://git.lovelacelee.com/post-images/1584427815699.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://http://emvh41.coding-pages.com//post-images/1584427815699.png" alt="" loading="lazy"></figure>
 <p>读这本书最大的收获是认识到，只要我们付出时间和正确的努力，我们完全有能力可以在某个专业领域擅长并精通。共勉。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[坚持]]></title>
-        <id>http://git.lovelacelee.com/post/jian-chi/</id>
-        <link href="http://git.lovelacelee.com/post/jian-chi/">
+        <id>http://http://emvh41.coding-pages.com/post/jian-chi/</id>
+        <link href="http://http://emvh41.coding-pages.com/post/jian-chi/">
         </link>
         <updated>2020-03-15T09:20:54.000Z</updated>
         <content type="html"><![CDATA[<h1 id="每一件事情">每一件事情</h1>
@@ -174,8 +174,8 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[良好的数据安全管理办法]]></title>
-        <id>http://git.lovelacelee.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/</id>
-        <link href="http://git.lovelacelee.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/">
+        <id>http://http://emvh41.coding-pages.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/</id>
+        <link href="http://http://emvh41.coding-pages.com/post/liang-hao-de-shu-ju-an-quan-guan-li-ban-fa/">
         </link>
         <updated>2020-03-15T09:19:43.000Z</updated>
         <content type="html"><![CDATA[<h1 id="隐患">隐患</h1>
@@ -186,8 +186,8 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[让孩子爱上读书的一百种方法]]></title>
-        <id>http://git.lovelacelee.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/</id>
-        <link href="http://git.lovelacelee.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/">
+        <id>http://http://emvh41.coding-pages.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/</id>
+        <link href="http://http://emvh41.coding-pages.com/post/rang-hai-zi-ai-shang-du-shu-de-yi-bai-chong-fang-fa/">
         </link>
         <updated>2020-03-15T09:00:48.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -200,7 +200,7 @@ ta 在音乐/运动/绘画上肯定有天赋。<br>
 <p>妈妈们的分享，以下是网络上文字版本的收集。</p>
 </blockquote>
 <p>不管时代如何变化，我们都要相信读书能改变命运，要相信阅读的力量。特别是对于普通家庭，在学习资源落后的情况下，阅读反而是获取知识比较公平的一个途径。你一定要相信并且鼓励孩子，因为父母的眼光和格局，就是孩子站的高度。<br>
-<img src="http://git.lovelacelee.com/post-images/1584403580214.svg" alt="" loading="lazy"></p>
+<img src="http://http://emvh41.coding-pages.com//post-images/1584403580214.svg" alt="" loading="lazy"></p>
 <!-- more -->
 <ul>
 <li>✅001: 读书给他听、坚持读书给他听、不断读书给他听、每天读书给他听。</li>
