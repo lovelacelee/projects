@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://git.lovelacelee.com</id>
     <title>星垂平野</title>
-    <updated>2020-05-07T02:24:33.860Z</updated>
+    <updated>2020-05-07T13:14:57.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://git.lovelacelee.com"/>
     <link rel="self" href="https://git.lovelacelee.com/atom.xml"/>
@@ -11,6 +11,24 @@
     <logo>https://git.lovelacelee.com/images/avatar.png</logo>
     <icon>https://git.lovelacelee.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 星垂平野</rights>
+    <entry>
+        <title type="html"><![CDATA[《情绪掌控术》鸿雁编著]]></title>
+        <id>https://git.lovelacelee.com/post/lesslessqing-xu-zhang-kong-zhu-greatergreater-hong-yan-bian-zhu/</id>
+        <link href="https://git.lovelacelee.com/post/lesslessqing-xu-zhang-kong-zhu-greatergreater-hong-yan-bian-zhu/">
+        </link>
+        <updated>2020-05-07T12:04:38.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>    回过头来，发现人生的很多经历，过程，都可以被称作是艺术。学习、教育、提升、改变、控制，等等，都是艺术，因为总有人做得出类拔萃，也总有人做得不如人意。如果过程可以掌控，那作为执行过程的人的行为，心理都应该是可以很科学地把控的。</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>    回过头来，发现人生的很多经历，过程，都可以被称作是艺术。学习、教育、提升、改变、控制，等等，都是艺术，因为总有人做得出类拔萃，也总有人做得不如人意。如果过程可以掌控，那作为执行过程的人的行为，心理都应该是可以很科学地把控的。
+</code></pre>
+<!-- more -->
+<pre><code>    书分好坏，像这本书，可以称作是鸡汤野书了。三月开工，两件事情让我自己对自己的情绪控制极度不满意，以我现在对自己心理和情绪的了解，我认为我可以在一段时间里找到[情绪爆发]即时控制的方法，只是我还不会系统的情绪控制和方法。事件后我没有细找，因为在我看来可能有这么一本书能让我找到情绪爆发的根源，从而立于之外看自己情绪发展过程的话，那我也就得道了。因此京东了一套鸡汤合集。
+    ![](https://git.lovelacelee.com/post-images/1588854064662.jpg)
+    《把时间当作朋友》李老师讲到，时间就是在流逝的，「控制」时间，是空谈，能做好的，就是时间的有效利用，碎片时间的充分利用和回收。比起时间控制，情绪控制完全是可行的，在充分掌握了自身情绪发展的规律之后，完全可以找到一个切入点，理性地改变情绪的发展趋势。从我父亲的例子来看，火爆脾气发发展完全是对情绪毫不控制的结果，在本身十分了解自己脾气的情况下，稍微了解一些情绪控制的方法，和即时考虑坏脾气发展的最坏结果，就不会让个人的情绪问题影响家庭和谐。从同事的例子看，不论是什么难度、什么复杂的事情，只要是工作，有解决方案是迟早的结果，因此在工作中突然产生爆发式的情绪，对工作本身产生巨大的影响，上司莫名其妙。情绪失控这件事，一回两回还能理解，动不动就失控相对，共事难，影响大。
+    全书从，什么是情绪，什么在影响着我们的情绪，来认识我们的情绪。分析了恐惧、悲伤等不同的类型，分析了失控类型的情绪，让我了解了失控的内心世界。探究为何总是会情绪化，通过情绪认知、情绪评价、情绪转移来控制自己的情绪。通过减压、品味生活、减少后悔等方法，打开自己的情绪控制之门，慢慢改变自己的情绪。最后，通过主动沟通，多聊多了解，为自己的情绪世界带来阳光，善待他人，永怀希望，常宽容，常感恩。
+    为什么说这本书「野」？因为做技术做久了，看什么东西都希望是Manual, Or Cookbook，拿到手就能用，操作一遍就会，看完执行即专家，所以这本书完全没有这种级别，当然我把情绪控制理解为艺术也是个原因。人有不同，有的人快、准，很早思维就打开了，正三观形成早，而有的人，总是来得慢，就连踩坑，都比别人慢。能够静下心来读一本书，高效率地完成每一个「过程」，对于现在这个快节奏，浮躁的时代来讲，也就算是个艺术生了。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精读笔记｜一文读透《刻意练习》]]></title>
         <id>https://git.lovelacelee.com/post/jing-du-bi-ji-oryi-wen-du-tou-lesslesske-yi-lian-xi-greatergreater/</id>
