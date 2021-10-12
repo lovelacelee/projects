@@ -1,2 +1,2 @@
-# lovelacelee.github.io
-git.lovelacelee.com
+# Projects of Connard
+>since 2008
